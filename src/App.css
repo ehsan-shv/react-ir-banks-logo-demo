@@ -24,15 +24,16 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+input {
+  height: 40px;
+  width: 200px;
+  font-family: 'Vazirmatn';
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+label {
+  font-size: 16px;
+  text-align: left;
+  margin-bottom: 12px;
+  text-align: right;
+  direction: rtl;
 }
